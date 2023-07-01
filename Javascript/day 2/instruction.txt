@@ -1,0 +1,5 @@
+INSTALL REACT 
+-npm create vite
+-cd project
+-npm install 
+-npm run dev
